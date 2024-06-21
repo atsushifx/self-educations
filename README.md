@@ -1,8 +1,5 @@
 # readme
 
-this is my projects's template.
-create base file:
+These are notes & codes of self educations of programming.
 
-- LICENSE
-- .gitignore
-- .editorconfig
+licensed under the [unlicense](https://unlicense.org/)
